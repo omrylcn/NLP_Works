@@ -10,7 +10,7 @@
     - "GloVe: Global Vectors for Word Representation" : https://www.aclweb.org/anthology/D14-1162
 
 - Chris Blog's : http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
-- "Glove" : https://nlp.stanford.edu/projects/glove/
+- "GloVe" : https://nlp.stanford.edu/projects/glove/
 - cs224n 
     - slide : http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture01-wordvecs1.pdf
     - video : https://www.youtube.com/watch?v=ERibwqs9p38&index=2&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
