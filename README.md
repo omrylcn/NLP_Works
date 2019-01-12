@@ -15,8 +15,9 @@
     - slide : http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture01-wordvecs1.pdf
     - video : https://www.youtube.com/watch?v=ERibwqs9p38&index=2&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 - Deep Learning (Ali Ghodsi)
-    - video : - https://www.youtube.com/watch?v=TsEGsdVJjuA
-              - https://www.youtube.com/watch?v=nuirUEmbaJU&t=119s
+    - video : 
+        - https://www.youtube.com/watch?v=TsEGsdVJjuA
+        - https://www.youtube.com/watch?v=nuirUEmbaJU&t=119s
     - slide : https://uwaterloo.ca/data-analytics/sites/ca.data-analytics/files/uploads/files/word2vec.pdf
     
 - CMU NLP :
